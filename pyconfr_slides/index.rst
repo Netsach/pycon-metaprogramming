@@ -18,8 +18,8 @@ Metaprogramming for fun and profit
 https://netsach.com
 +++++++++++++++++++
 
-https://github.com/netsach/pycon/metaprogramming-slides
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+https://github.com/Netsach/pycon-metaprogramming
+++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
@@ -351,6 +351,6 @@ Q & A
     Reason: Questions ?
 
 
-- https://github.com/netsach/pycon/metaprogramming-slides
+- https://github.com/Netsach/pycon-metaprogramming
 - Netsach : https://netsach.com
 - We're hiring ! http://hire.netsach.eu
